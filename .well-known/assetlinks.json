@@ -13,3 +13,31 @@
     }
   }
 ]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cardly.app",
+      "sha256_cert_fingerprints": [
+        "AD:5E:12:6E:C1:A1:46:6F:30:56:86:71:9F:3D:3B:BE:16:F9:EE:7D:F8:31:60:EC:4E:48:FE:F2:CC:56:CC:74"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mgacreative.modigo",
+      "sha256_cert_fingerprints": [
+        "52:BF:5D:6C:A9:24:1F:24:01:2D:10:24:65:B3:52:4D:A4:A2:D6:A2:79:C2:92:04:87:4C:31:1A:12:4F:B3:4C",
+        "B9:5E:11:51:0D:FC:BA:A5:95:93:28:FA:F4:B9:9C:33:D6:90:9B:FA:2C:88:54:4F:45:2F:F9:0A:07:CA:15:0B"
+      ]
+    }
+  }
+]
