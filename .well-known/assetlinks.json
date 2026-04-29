@@ -8,7 +8,8 @@
       "namespace": "android_app",
       "package_name": "com.cardly.app",
       "sha256_cert_fingerprints": [
-        "AD:5E:12:6E:C1:A1:46:6F:30:56:86:71:9F:3D:3B:BE:16:F9:EE:7D:F8:31:60:EC:4E:48:FE:F2:CC:56:CC:74"
+        "AD:5E:12:6E:C1:A1:46:6F:30:56:86:71:9F:3D:3B:BE:16:F9:EE:7D:F8:31:60:EC:4E:48:FE:F2:CC:56:CC:74",
+        "8A:CC:5A:07:10:A9:B7:20:E8:FA:6B:57:F6:4F:68:C5:B2:A6:A2:94:F4:E8:D9:67:7E:ED:FE:C0:E3:39:0D:75"
       ]
     }
   },
