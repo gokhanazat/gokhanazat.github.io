@@ -25,5 +25,61 @@
         "B9:5E:11:51:0D:FC:BA:A5:95:93:28:FA:F4:B9:9C:33:D6:90:9B:FA:2C:88:54:4F:45:2F:F9:0A:07:CA:15:0B"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.argesurec.android",
+      "sha256_cert_fingerprints": ["21:1F:0E:B1:02:2B:7B:6A:E6:46:7A:18:8F:CB:59:BD:32:50:CA:8F:7B:49:4C:BC:52:DE:E6:77:2D:B9:97:98"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.archivecrm.app",
+      "sha256_cert_fingerprints": ["6F:B9:85:34:8F:45:3F:A3:EF:82:3B:D6:56:B4:B6:B6:0F:CA:23:B1:07:AE:73:53:5C:F9:5F:98:90:B1:03:21"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.felsefibakis.app",
+      "sha256_cert_fingerprints": ["A4:03:F9:5C:41:65:C3:BA:E1:38:97:84:FA:86:87:19:B7:60:0C:5D:92:7F:9C:5D:27:02:DE:EB:6E:DF:CF:FF"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mgacreative.lemora_kmp",
+      "sha256_cert_fingerprints": ["93:15:43:51:04:48:88:A5:B5:13:54:1E:E7:84:30:5B:A3:27:6A:06:05:9A:07:8D:3B:A4:64:75:0B:7D:A6:C8"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mgacreative.proevent",
+      "sha256_cert_fingerprints": ["C3:B3:81:22:6E:08:D3:E5:AF:5F:B3:36:86:E0:71:F8:A8:B4:14:48:30:4C:2B:B1:D3:22:55:17:17:AB:E7:E4"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mgacreative.wedoria",
+      "sha256_cert_fingerprints": ["9E:E7:DE:60:3F:A8:95:9D:ED:DE:4E:6A:8F:EC:3B:0A:8C:1F:03:CD:BF:56:0E:26:BF:77:91:81:24:AC:A8:8C"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mgacreative.tripmind",
+      "sha256_cert_fingerprints": ["EA:8F:41:50:80:92:99:E5:08:0B:52:2C:D7:EB:72:E7:88:4B:83:AB:21:95:86:8F:60:A6:F4:41:07:63:FF:B9"]
+    }
   }
 ]
