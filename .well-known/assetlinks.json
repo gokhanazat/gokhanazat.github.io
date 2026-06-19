@@ -89,5 +89,14 @@
       "package_name": "com.mgacreative.voicebell",
       "sha256_cert_fingerprints": ["7E:0B:2A:21:39:4F:AD:D3:5D:A5:89:E1:7D:5B:F8:B0:4C:A0:D7:5E:FE:F1:D5:B9:43:09:42:7F:E9:A0:BB:5A"]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.quickbite.orderapp",
+      "sha256_cert_fingerprints": ["23:BF:70:C9:04:D5:05:F7:40:7D:86:DF:4A:A0:50:3F:70:AD:0C:FA:30:14:57:A2:1F:DE:56:57:9A:3F:68:BE"]
+    }
   }
 ]
+
